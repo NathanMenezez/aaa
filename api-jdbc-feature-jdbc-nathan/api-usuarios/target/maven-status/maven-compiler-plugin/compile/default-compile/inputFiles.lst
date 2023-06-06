@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Estudos Programação\Cruz Vita\Exercicios\Exercicio-JDBC\api-jdbc\api-usuarios\src\main\java\br\com\vita\api\usuarios\controller\UsuarioController.java
+C:\Users\Administrator\Desktop\Estudos Programação\Cruz Vita\Exercicios\Exercicio-JDBC\api-jdbc\api-usuarios\src\main\java\br\com\vita\api\usuarios\ConnectionFactory.java
+C:\Users\Administrator\Desktop\Estudos Programação\Cruz Vita\Exercicios\Exercicio-JDBC\api-jdbc\api-usuarios\src\main\java\br\com\vita\api\usuarios\exception\HandlerExceptions.java
+C:\Users\Administrator\Desktop\Estudos Programação\Cruz Vita\Exercicios\Exercicio-JDBC\api-jdbc\api-usuarios\src\main\java\br\com\vita\api\usuarios\repository\UsuarioRepository.java
+C:\Users\Administrator\Desktop\Estudos Programação\Cruz Vita\Exercicios\Exercicio-JDBC\api-jdbc\api-usuarios\src\main\java\br\com\vita\api\usuarios\dto\UpdateUsuario.java
+C:\Users\Administrator\Desktop\Estudos Programação\Cruz Vita\Exercicios\Exercicio-JDBC\api-jdbc\api-usuarios\src\main\java\br\com\vita\api\usuarios\model\UsuarioModel.java
+C:\Users\Administrator\Desktop\Estudos Programação\Cruz Vita\Exercicios\Exercicio-JDBC\api-jdbc\api-usuarios\src\main\java\br\com\vita\api\usuarios\ApiUsuarios.java
+C:\Users\Administrator\Desktop\Estudos Programação\Cruz Vita\Exercicios\Exercicio-JDBC\api-jdbc\api-usuarios\src\main\java\br\com\vita\api\usuarios\dto\UsuarioDTO.java
+C:\Users\Administrator\Desktop\Estudos Programação\Cruz Vita\Exercicios\Exercicio-JDBC\api-jdbc\api-usuarios\src\main\java\br\com\vita\api\usuarios\config\SwaggerConfiguration.java
+C:\Users\Administrator\Desktop\Estudos Programação\Cruz Vita\Exercicios\Exercicio-JDBC\api-jdbc\api-usuarios\src\main\java\br\com\vita\api\usuarios\service\UsuarioService.java

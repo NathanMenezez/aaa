@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: api-usuarios-jdbc
+  #profiles:
+    #active:
+  server:
+    port: 8080    
